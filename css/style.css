@@ -34,7 +34,7 @@ select {
 .container {
   background: white;
   max-width: 600px;
-  margin: 60px auto;
+  margin: 60px auto 0px;
   padding: 30px;
   border: solid 1.5px #6e88a1;
   border-radius: 8px;
@@ -72,5 +72,6 @@ select {
 footer {
   text-align: center;
   font-size: 18px;
-  opacity: 0.8;
+  opacity: 0.85;
+  margin: 30px;
 }
